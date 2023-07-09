@@ -1,0 +1,12 @@
+C:\Users\erebo\OneDrive\Рабочий стол\Школярство\CalendarNotesAlarmClock\bin\Debug\CalendarNotesAlarmClock.exe.config
+C:\Users\erebo\OneDrive\Рабочий стол\Школярство\CalendarNotesAlarmClock\bin\Debug\CalendarNotesAlarmClock.exe
+C:\Users\erebo\OneDrive\Рабочий стол\Школярство\CalendarNotesAlarmClock\bin\Debug\CalendarNotesAlarmClock.pdb
+C:\Users\erebo\OneDrive\Рабочий стол\Школярство\CalendarNotesAlarmClock\obj\Debug\CalendarNotesAlarmClock.csproj.AssemblyReference.cache
+C:\Users\erebo\OneDrive\Рабочий стол\Школярство\CalendarNotesAlarmClock\obj\Debug\CalendarNotesAlarmClock.csproj.SuggestedBindingRedirects.cache
+C:\Users\erebo\OneDrive\Рабочий стол\Школярство\CalendarNotesAlarmClock\obj\Debug\CalendarNotesAlarmClock.FormWork.resources
+C:\Users\erebo\OneDrive\Рабочий стол\Школярство\CalendarNotesAlarmClock\obj\Debug\CalendarNotesAlarmClock.FormHelp.resources
+C:\Users\erebo\OneDrive\Рабочий стол\Школярство\CalendarNotesAlarmClock\obj\Debug\CalendarNotesAlarmClock.Properties.Resources.resources
+C:\Users\erebo\OneDrive\Рабочий стол\Школярство\CalendarNotesAlarmClock\obj\Debug\CalendarNotesAlarmClock.csproj.GenerateResource.cache
+C:\Users\erebo\OneDrive\Рабочий стол\Школярство\CalendarNotesAlarmClock\obj\Debug\CalendarNotesAlarmClock.csproj.CoreCompileInputs.cache
+C:\Users\erebo\OneDrive\Рабочий стол\Школярство\CalendarNotesAlarmClock\obj\Debug\CalendarNotesAlarmClock.exe
+C:\Users\erebo\OneDrive\Рабочий стол\Школярство\CalendarNotesAlarmClock\obj\Debug\CalendarNotesAlarmClock.pdb
